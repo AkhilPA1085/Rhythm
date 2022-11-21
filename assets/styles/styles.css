@@ -233,6 +233,10 @@ header{
     margin:0;
     text-transform:uppercase; 
   }
+
+  .navbar ul li a:focus{
+    background: #fff;
+  }
   
   
   .navbar ul li:after {
